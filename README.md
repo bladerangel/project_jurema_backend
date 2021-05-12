@@ -42,7 +42,9 @@
 
 **Observação: Coloquei por volta da questão 5 uma promise só para executar todas as questões em ordem**
 
-### Questão 7A) Número 4, pois o código dentro do **_for_** executa 100ms após a execução de atribuição da variável **_i_** e antes disso ocorrer a variável i já possui o valor de 4 que é a última execução da estrutura de repetição.
+### Questão 7A)
+
+**Número 4**, pois o código dentro do **_for_** executa 100ms após a execução de atribuição da **_variável i_** e antes disso ocorrer a variável i já possui o valor de 4 que é a última execução da estrutura de repetição.
 
 ### 10) Supondo que o servidor é linux, execute os comandos:
 
