@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package protos;
+
+service AppService {
+  rpc GePopulationByState_RPC (PopulationByState) returns (Population) {}
+}
+
+message PopulationByState {
+  string abbreviation = 1;
+}
+
+message Population {
+  string abbreviation = 1;
+  string population = 2;
+}
