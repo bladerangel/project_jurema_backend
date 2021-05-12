@@ -1,0 +1,16 @@
+{
+  "name": "question5_6_7B_8_9",
+  "version": "0.0.1",
+  "description": "question5_6_7B_8_9",
+  "author": "bladerangel10@gmail.com",
+  "private": true,
+  "license": "UNLICENSED",
+  "scripts": {
+    "start": "ts-node ./src/index.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^8.4.1",
+    "@types/node": "^12.11.6",
+    "typescript": "^3.6.4"
+  }
+}
